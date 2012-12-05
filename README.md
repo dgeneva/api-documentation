@@ -51,6 +51,7 @@ You can check out some hacks [here](http://developer.500px.com/hacks) and try ou
 - **[<code>GET</code> photos/:id/favorites](https://github.com/500px/api-documentation/blob/master/endpoints/photo/GET_photos_id_favorites.md)**
 - **[<code>GET</code> photos/:id/votes](https://github.com/500px/api-documentation/blob/master/endpoints/photo/GET_photos_id_votes.md)**
 - **[<code>PUT</code> photos/:id](https://github.com/500px/api-documentation/blob/master/endpoints/photo/PUT_photos_id.md)**
+- **[<code>PUT</code> photos/update](https://github.com/500px/api-documentation/blob/master/endpoints/photo/PUT_photos_update.md)**
 - **[<code>POST</code> photos](https://github.com/500px/api-documentation/blob/master/endpoints/photo/POST_photos.md)**
 - **[<code>POST</code> photos/upload](https://github.com/500px/api-documentation/blob/master/endpoints/photo/POST_photos_upload.md)**
 - **[<code>POST</code> photos/:id/vote](https://github.com/500px/api-documentation/blob/master/endpoints/photo/POST_photos_id_vote.md)**
